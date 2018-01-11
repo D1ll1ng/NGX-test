@@ -8,6 +8,12 @@ export const MENU_ITEMS: NbMenuItem[] = [
     home: true,
   },
   {
+    title: 'Galleries',
+    icon: 'nb-home',
+    link: '/pages/galleries',
+    home: true,
+  },
+  {
     title: 'FEATURES',
     group: true,
   },
